@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Dancing Script', sans-serif; 
+}
+
+.button{
+  width: 60px;
+  padding: 20px;
+  margin:  4px;
+  border: 2px solid neon;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 200px;
+  font-size: 20px;
+  color:red;
+    margin: 0;
+    padding: 10px 10px;
+    border: 2px solid double black;
+    border-radius: 10px;
+}
+.calculator{
+  background-color:red;
+  width: 300px;
+  text-decoration-thickness: 20px;
+  border: 2px solid black;
+  padding: 2px;
+  border-radius:8px;
+  background:transparent;
+  box-shadow:20px 20px 20px rgba(113,115,119,0.5);
+  
+}
